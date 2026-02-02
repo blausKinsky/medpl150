@@ -1,1 +1,31 @@
+<!DOCTYPE html PUBLIC>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
+<title>Reading Responses</title>
+
+<style type="text/css"></style>
+
+</head>
+
+
+<body >
+
+	<div id="thisDiv"> </div> 
+
+	<h1>These Are my Reading Responses </h1>
+  <p> Deep thoughts about 'On Photography'.</p> 
+	<p> click <a href="index.html">here</a>  to go to the home page. </p> 
+
+	 <img src="images/cube.jpg" alt="my face" height="615" width="600"> 
+	
+	
+<script type="text/javascript">
+
+ 
+
+
+</script>
+</body>
+</html>
